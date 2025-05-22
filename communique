@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  
+  div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 50%;
+  height: 50%;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+  
+  
+  
+</style>
+</head>
+  
+  
+  
+<body>
+
+<h1>Communiqués</h1> 
+<p> Foreword: May 22nd
+<p> Hi Nicole
+<p> I'm not sure if you heard, but Canada Post employees intend to go on strike tomorrow, May 23rd. 
+<p> <i> "If that happens, no new mail will be accepted and any items already in the system will be held until the strike is over. " </i> -CBC
+<p> I wrote you a letter on May 16th which my father posted for me the following morning. I wonder where it will end up. With that in mind, and with everything else, I thought I would send over a little digital communiqué. I just want to care for you from afar, in a way that makes sense for you and respects your space. 
+<p> Please do let me know if you feel as though the format doesn't suit you. 
+
+
+
+
+
+
+
+</body>
+</html>
